@@ -1,4 +1,4 @@
 # demo
 this is my first repository
 <br>
-Author-puspalata nayak
+Author-puspalata (panda)
